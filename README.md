@@ -12,7 +12,9 @@
 <br>
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently doing **Competitive Programming** 
+- 🔭 I’m currently doing **Competitive Programming**
+
+- 🌱 I’m currently learning ** Django for Backend**
 
 - 💬 Ask me about **React, DSA, C++**
 
