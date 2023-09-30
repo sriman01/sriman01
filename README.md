@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently doing **Competitive Programming**
 
-- 🌱 I’m currently learning **Django for Backend**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **React, DSA, C++**
 
