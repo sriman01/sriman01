@@ -23,8 +23,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/sriman45" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="sriman45" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sriman-kumar-68a23123b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emperoryp" height="30" width="40" /></a>
- <a href="https://www.instagram.com/_sriman__01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pianist_yp" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sriman-kumar-68a23123b/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" alt="srimankumar" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/_sriman__01/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/640px-Instagram_logo_2022.svg.png" alt="_sriman_01" height="30" width="40" /></a>
 </p>
 <br>
 
