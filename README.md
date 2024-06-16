@@ -2,7 +2,7 @@
 <br>
 ---
 <h1 align="center">Hi 👋, I'm Sriman Kumar</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer From India</h3>
 
 <div align="center"><img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif"></div>
 <br>
@@ -10,11 +10,9 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently doing **Competitive Programming**
+- 🔭  **Associate SDE** 
 
-- 🌱 I’m currently learning **MERN**
-
-- 💬 Ask me about **React, DSA, C++**
+- 💬 Ask me about **Web Development, DSA & Mathematics**
 
 - 📫 How to reach me **srimankumar45@gmail.com**
 
